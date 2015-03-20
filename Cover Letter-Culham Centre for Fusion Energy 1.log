@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.9)  20 MAR 2015 13:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.9)  20 MAR 2015 13:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -26,7 +26,7 @@ Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS)
 Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 ))
-No file "Cover Letter-Culham Centre for Fusion Energy 1".aux.
+(./Cover Letter-Culham Centre for Fusion Energy 1.aux)
 \openout1 = `"Cover Letter-Culham Centre for Fusion Energy 1.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -42,6 +42,7 @@ LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Try loading font information for OT1+pnc on input line 14.
+
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pnc.fd
 File: ot1pnc.fd 2001/06/04 font definitions for OT1/pnc.
 )
@@ -56,18 +57,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./Cover Letter-Culham Centre for Fusion Energy 1.aux) ) 
 Here is how much of TeX's memory you used:
- 236 strings out of 493117
- 3293 string characters out of 6135433
+ 238 strings out of 493117
+ 3395 string characters out of 6135433
  53909 words of memory out of 5000000
  3764 multiletter control sequences out of 15000+600000
  8253 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,6n,19p,266b,212s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,6n,19p,360b,212s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/201
 4/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fo
 nts/type1/urw/ncntrsbk/uncr8a.pfb>
 Output written on "Cover Letter-Culham Centre for Fusion Energy 1.pdf" (1 page,
- 18527 bytes).
+ 17510 bytes).
 PDF statistics:
  13 PDF objects out of 1000 (max. 8388607)
  8 compressed objects within 1 object stream
