@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.9)  24 MAR 2015 15:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.9)  25 MAR 2015 13:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -9,8 +9,8 @@ LaTeX2e <2014/05/01>
 Babel <3.9k> and hyphenation patterns for 78 languages loaded.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/letter.cls
 Document Class: letter 1999/04/29 v1.2z Standard LaTeX document class
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \longindentation=\dimen102
 \indentedwidth=\dimen103
@@ -47,28 +47,26 @@ LaTeX Font Info:    Try loading font information for OT1+pnc on input line 14.
 File: ot1pnc.fd 2001/06/04 font definitions for OT1/pnc.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 33.
+(Font)              <7> on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 33.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 33.
+(Font)              <5> on input line 39.
  [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./Cover Letter-Rutherford Appleton Laboratory CMS Group.aux) ) 
 Here is how much of TeX's memory you used:
- 238 strings out of 493117
- 3458 string characters out of 6135433
- 53909 words of memory out of 5000000
- 3764 multiletter control sequences out of 15000+600000
- 8253 words of font info for 26 fonts, out of 8000000 for 9000
+ 221 strings out of 493117
+ 3260 string characters out of 6135433
+ 55909 words of memory out of 5000000
+ 3753 multiletter control sequences out of 15000+600000
+ 5043 words of font info for 16 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,6n,19p,345b,212s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,6n,19p,856b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texl
 ive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-
 dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
 Output written on "Cover Letter-Rutherford Appleton Laboratory CMS Group.pdf" (
-1 page, 18893 bytes).
+1 page, 21393 bytes).
 PDF statistics:
  13 PDF objects out of 1000 (max. 8388607)
  8 compressed objects within 1 object stream
